@@ -12,5 +12,5 @@ To install:
 - put the file SDRSharp.SDRplay.dll in the SDR# install folder
 - with a text editor, open the file "FrontEnds.xml" in the SDR# install folder and add the line : 
  <add key="SDRplay" value="SDRSharp.SDRplay.SDRplayIO,SDRSharp.SDRplay"/>
- in the "<<frontendPlugins>>" section.
+ in the &gt;"<frontendPlugins>" section.
   
