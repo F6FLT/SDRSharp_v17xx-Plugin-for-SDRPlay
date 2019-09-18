@@ -12,6 +12,6 @@ With Microsoft Visual Studio 2017:
 To install:
 - put the file SDRSharp.SDRplay.dll in the SDR# install folder
 - with a text editor, open the file "FrontEnds.xml" in the SDR# install folder and add the line : 
- &#60;add key="SDRplay" value="SDRSharp.SDRplay.SDRplayIO,SDRSharp.SDRplay"/&#62;
- in the "&#60;frontendPlugins&#62;" section.
+<br/> &#60;add key="SDRplay" value="SDRSharp.SDRplay.SDRplayIO,SDRSharp.SDRplay"/&#62;
+<br/> in the "&#60;frontendPlugins&#62;" section.
   
