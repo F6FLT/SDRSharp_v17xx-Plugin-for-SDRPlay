@@ -8,6 +8,7 @@ adapted to allow the RSP1 SDRPlay to work with recent 2019 versions of SDR# (v 1
 - with a text editor, open the file "FrontEnds.xml" in the SDR# install folder and add the line : 
 <br/> &#60;add key="SDRplay" value="SDRSharp.SDRplay.SDRplayIO,SDRSharp.SDRplay"/&#62;
 <br/> in the "&#60;frontendPlugins&#62;" section.
+<br>The SDRPlay will appear in the list of devices that can be selected from SDR#
 
 
 <b>You are interested in source code and development</b>
