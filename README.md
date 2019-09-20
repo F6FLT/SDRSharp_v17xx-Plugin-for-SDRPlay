@@ -15,3 +15,7 @@ adapted to allow the RSP1 SDRPlay to work with recent 2019 versions of SDR# (v 1
 <br>To build, with Microsoft Visual Studio 2017:
 - Open the .sln file in Visual Studio
 - Add SDRSharp.Radio.dll and SDRSharp.Common.dll from your SDR# install folder as external references.
+
+<br>
+<br>
+[![screenShot](http://exvacuo.free.fr/div/Radio/SDR/SDRSharp/SDRSharp_v17xx-Plugin-for-SDRPlay-master/SDRSharpSDRPlay.jpg)]
