@@ -18,4 +18,4 @@ adapted to allow the RSP1 SDRPlay to work with recent 2019 versions of SDR# (v 1
 
 <br>
 <br>
-[![screenShot](http://exvacuo.free.fr/div/Radio/SDR/SDRSharp/SDRSharp_v17xx-Plugin-for-SDRPlay-master/SDRSharpSDRPlay.jpg)]
+![screenShot](http://exvacuo.free.fr/div/Radio/SDR/SDRSharp/SDRSharp_v17xx-Plugin-for-SDRPlay-master/SDRSharpSDRPlay.jpg)
