@@ -1,7 +1,7 @@
 # SDRSharp_v17xx-Plugin-for-SDRPlay RSP1 beta version
 SDRSharp v17 Plugin for SDRPlay: Source code and binary for Windows 10 (SDRSharp.SDRplay.dll)
 <br/><br/>This plugin is taken from https://github.com/Sir-Loin/SDRPlay_SDRSharp_Plugin and
-adapted to allow the RSP1 SDRPlay to work with recent 2019 versions of SDR# (v 1.0.0.0.1722 -> 1732).
+adapted to allow the RSP1 SDRPlay to work with recent 2019 versions of SDR# (v 1.0.0.0.1716 -> 1732).
 
 <b>You only want the turnkey solution for Windows</b>
 - download and put the file SDRSharp.SDRplay.dll in the SDR# install folder
